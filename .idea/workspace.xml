@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c582d6c-4459-4655-b7b1-c4bfd772f054" name="Changes" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <workItem from="1760850059081" duration="4862000" />
       <workItem from="1760857268765" duration="3514000" />
       <workItem from="1760866950142" duration="1163000" />
-      <workItem from="1760886679361" duration="4618000" />
+      <workItem from="1760886679361" duration="6568000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <option name="closed" value="true" />
@@ -101,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760889792862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1760892671490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760892671490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
